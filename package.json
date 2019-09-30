@@ -1,9 +1,10 @@
 {
   "name": "Bristol_Festival",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Welcome onboard - see further instructions to jump straight in and start to collaborate.",
   "main": "index.js",
   "scripts": {
+    "deploy": "gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -19,5 +20,16 @@
     "gulp-sass": "^4.0.2",
     "gulp-uglify-es": "^1.0.4",
     "jquery": "^3.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SashaLawrence/cheese_festival.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SashaLawrence/cheese_festival/issues"
+  },
+  "homepage": "https://SashaLawrence.github.io/cheese_festival",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
   }
 }
