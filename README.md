@@ -44,6 +44,12 @@ We also had a gulp task that uses **gulp.watch** to watch for changes in SASS fi
 ## Getting Started
 
 view the live website: [cheese festival](https://sashalawrence.github.io/cheese_festival/)
+## Screenshots
+![Screenshot 2019-09-30 at 22 28 23](https://user-images.githubusercontent.com/51890290/65921911-875ef100-e3db-11e9-9f92-6b669729d054.png)
+
+![Screenshot 2019-09-30 at 22 28 32](https://user-images.githubusercontent.com/51890290/65922006-cb51f600-e3db-11e9-9470-3b2d9c442724.png)
+
+![Screenshot 2019-09-30 at 22 29 01](https://user-images.githubusercontent.com/51890290/65922033-da38a880-e3db-11e9-81bf-91a97bde9f77.png)
 
 ## Skills Used
 Gitflow, Branches GULP, npm, HTML, CSS, SASS, Bootstrap.
